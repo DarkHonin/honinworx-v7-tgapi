@@ -1,0 +1,33 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Express controller for tdLib?",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkHonin/telegram-tdlib-controler.git"
+  },
+  "keywords": [
+    "telegram",
+    "node",
+    "express",
+    "tdlib",
+    "api",
+    "controler"
+  ],
+  "author": "Honin",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/DarkHonin/telegram-tdlib-controler/issues"
+  },
+  "homepage": "https://github.com/DarkHonin/telegram-tdlib-controler#readme",
+  "dependencies": {
+    "tglib": "^3.0.5"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
